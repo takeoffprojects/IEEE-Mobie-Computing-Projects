@@ -1,0 +1,2 @@
+# IEEE-Mobie-Computing-Projects
+Generally, Mobile computing is to connect a network to publish information. It is also a replacement to interact between computer devices from different places. It involves mobile communication, hardware and software. especially IEEE Mobile Computing Projects for final year students is out there here at Elysium Pro. We assist engineering students to implement Final Year Mobile Computing Projects.To select Final Year Project related to technologies.
